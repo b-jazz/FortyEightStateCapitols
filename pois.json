@@ -1,0 +1,434 @@
+{
+  "CA": {
+    "state": "California",
+    "code": "CA",
+    "city": "Sacramento",
+    "address": "10th and L Street",
+    "lat": 38.5766,
+    "lon": -121.4934,
+    "wiki": "https://en.wikipedia.org/wiki/California_State_Capitol"
+  },
+  "NV": {
+    "state": "Nevada",
+    "code": "NV",
+    "city": "Carson City",
+    "address": "101 North Carson Street",
+    "lat": 39.1642,
+    "lon": -119.7664,
+    "wiki": "https://en.wikipedia.org/wiki/Nevada_State_Capitol"
+  },
+  "ID": {
+    "state": "Idaho",
+    "code": "ID",
+    "city": "Boise",
+    "address": "700 West Jefferson Street",
+    "lat": 43.6177,
+    "lon": -116.1996,
+    "wiki": "https://en.wikipedia.org/wiki/Idaho_State_Capitol"
+  },
+  "UT": {
+    "state": "Utah",
+    "code": "UT",
+    "city": "Salt Lake City",
+    "address": "Capitol Hill",
+    "lat": 40.7772,
+    "lon": -111.8881,
+    "wiki": "https://en.wikipedia.org/wiki/Utah_State_Capitol"
+  },
+  "WY": {
+    "state": "Wyoming",
+    "code": "WY",
+    "city": "Cheyenne",
+    "address": "24th Street & Capitol Avenue",
+    "lat": 41.1403,
+    "lon": -104.8197,
+    "wiki": "https://en.wikipedia.org/wiki/Wyoming_State_Capitol"
+  },
+  "CO": {
+    "state": "Colorado",
+    "code": "CO",
+    "city": "Denver",
+    "address": "200 East Colfax Avenue",
+    "lat": 39.7392,
+    "lon": -104.9848,
+    "wiki": "https://en.wikipedia.org/wiki/Colorado_State_Capitol"
+  },
+  "NM": {
+    "state": "New Mexico",
+    "code": "NM",
+    "city": "Santa Fe",
+    "address": "490 Old Santa Fe Trail",
+    "lat": 35.6824,
+    "lon": -105.9397,
+    "wiki": "https://en.wikipedia.org/wiki/New_Mexico_State_Capitol"
+  },
+  "AZ": {
+    "state": "Arizona",
+    "code": "AZ",
+    "city": "Phoenix",
+    "address": "1700 West Washington Street",
+    "lat": 33.4481,
+    "lon": -112.0964,
+    "wiki": "https://en.wikipedia.org/wiki/Arizona_State_Capitol"
+  },
+  "TX": {
+    "state": "Texas",
+    "code": "TX",
+    "city": "Austin",
+    "address": "1100 Congress Avenue",
+    "lat": 30.2747,
+    "lon": -97.7406,
+    "wiki": "https://en.wikipedia.org/wiki/Texas_State_Capitol"
+  },
+  "OK": {
+    "state": "Oklahoma",
+    "code": "OK",
+    "city": "Oklahoma City",
+    "address": "2300 North Lincoln Boulevard",
+    "lat": 35.4923,
+    "lon": -97.5033,
+    "wiki": "https://en.wikipedia.org/wiki/Oklahoma_State_Capitol"
+  },
+  "KS": {
+    "state": "Kansas",
+    "code": "KS",
+    "city": "Topeka",
+    "address": "300 SW 10th Ave",
+    "lat": 39.0481,
+    "lon": -95.6781,
+    "wiki": "https://en.wikipedia.org/wiki/Kansas_State_Capitol"
+  },
+  "NE": {
+    "state": "Nebraska",
+    "code": "NE",
+    "city": "Lincoln",
+    "address": "1445 K Street",
+    "lat": 40.8081,
+    "lon": -96.6997,
+    "wiki": "https://en.wikipedia.org/wiki/Nebraska_State_Capitol"
+  },
+  "IA": {
+    "state": "Iowa",
+    "code": "IA",
+    "city": "Des Moines",
+    "address": "Grand Ave. and E. 12th St.",
+    "lat": 41.5912,
+    "lon": -93.6039,
+    "wiki": "https://en.wikipedia.org/wiki/Iowa_State_Capitol"
+  },
+  "MO": {
+    "state": "Missouri",
+    "code": "MO",
+    "city": "Jefferson City",
+    "address": "201 West Capitol Avenue",
+    "lat": 38.5792,
+    "lon": -92.1728,
+    "wiki": "https://en.wikipedia.org/wiki/Missouri_State_Capitol"
+  },
+  "AR": {
+    "state": "Arkansas",
+    "code": "AR",
+    "city": "Little Rock",
+    "address": "500 Woodlane Street",
+    "lat": 34.7467,
+    "lon": -92.2892,
+    "wiki": "https://en.wikipedia.org/wiki/Arkansas_State_Capitol"
+  },
+  "MS": {
+    "state": "Mississippi",
+    "code": "MS",
+    "city": "Jackson",
+    "address": "400 High St",
+    "lat": 32.3039,
+    "lon": -90.1822,
+    "wiki": "https://en.wikipedia.org/wiki/Mississippi_State_Capitol"
+  },
+  "LA": {
+    "state": "Louisiana",
+    "code": "LA",
+    "city": "Baton Rouge",
+    "address": "900 North 3rd Street",
+    "lat": 30.457,
+    "lon": -91.1874,
+    "wiki": "https://en.wikipedia.org/wiki/Louisiana_State_Capitol"
+  },
+  "FL": {
+    "state": "Florida",
+    "code": "FL",
+    "city": "Tallahassee",
+    "address": "402 S Monroe St",
+    "lat": 30.4379,
+    "lon": -84.2812,
+    "wiki": "https://en.wikipedia.org/wiki/Florida_State_Capitol"
+  },
+  "AL": {
+    "state": "Alabama",
+    "code": "AL",
+    "city": "Montgomery",
+    "address": "600 Dexter Ave",
+    "lat": 32.3778,
+    "lon": -86.3006,
+    "wiki": "https://en.wikipedia.org/wiki/Alabama_State_Capitol"
+  },
+  "GA": {
+    "state": "Georgia",
+    "code": "GA",
+    "city": "Atlanta",
+    "address": "206 Washington St",
+    "lat": 33.749,
+    "lon": -84.3881,
+    "wiki": "https://en.wikipedia.org/wiki/Georgia_State_Capitol"
+  },
+  "SC": {
+    "state": "South_Carolina",
+    "code": "SC",
+    "city": "Columbia",
+    "address": "1100 Gervais St",
+    "lat": 34.0004,
+    "lon": -81.0331,
+    "wiki": "https://en.wikipedia.org/wiki/South_Carolina_State_Capitol"
+  },
+  "NC": {
+    "state": "North_Carolina",
+    "code": "NC",
+    "city": "Raleigh",
+    "address": "1 E Edenton St",
+    "lat": 35.7804,
+    "lon": -78.6391,
+    "wiki": "https://en.wikipedia.org/wiki/North_Carolina_State_Capitol"
+  },
+  "VA": {
+    "state": "Virginia",
+    "code": "VA",
+    "city": "Richmond",
+    "address": "1000 Bank St",
+    "lat": 37.5388,
+    "lon": -77.4333,
+    "wiki": "https://en.wikipedia.org/wiki/Virginia_State_Capitol"
+  },
+  "MD": {
+    "state": "Maryland",
+    "code": "MD",
+    "city": "Annapolis",
+    "address": "91 State Cir",
+    "lat": 38.9789,
+    "lon": -76.4911,
+    "wiki": "https://en.wikipedia.org/wiki/Maryland_State_Capitol"
+  },
+  "DE": {
+    "state": "Delaware",
+    "code": "DE",
+    "city": "Dover",
+    "address": "411 E Legislative Ave",
+    "lat": 39.1573,
+    "lon": -75.5197,
+    "wiki": "https://en.wikipedia.org/wiki/Delaware_State_Capitol"
+  },
+  "CT": {
+    "state": "Connecticut",
+    "code": "CT",
+    "city": "Hartford",
+    "address": "210 Capitol Ave",
+    "lat": 41.7641,
+    "lon": -72.6828,
+    "wiki": "https://en.wikipedia.org/wiki/Connecticut_State_Capitol"
+  },
+  "RI": {
+    "state": "Rhode_Island",
+    "code": "RI",
+    "city": "Providence",
+    "address": "82 Smith St",
+    "lat": 41.8308,
+    "lon": -71.415,
+    "wiki": "https://en.wikipedia.org/wiki/Rhode_Island_State_Capitol"
+  },
+  "MA": {
+    "state": "Massachusetts",
+    "code": "MA",
+    "city": "Boston",
+    "address": "24 Beacon Street",
+    "lat": 42.3582,
+    "lon": -71.0637,
+    "wiki": "https://en.wikipedia.org/wiki/Massachusetts_State_Capitol"
+  },
+  "NH": {
+    "state": "New_Hampshire",
+    "code": "NH",
+    "city": "Concord",
+    "address": "107 North Main Street",
+    "lat": 43.2069,
+    "lon": -71.5378,
+    "wiki": "https://en.wikipedia.org/wiki/New_Hampshire_State_Capitol"
+  },
+  "ME": {
+    "state": "Maine",
+    "code": "ME",
+    "city": "Augusta",
+    "address": "State and Capitol Sts",
+    "lat": 44.3071,
+    "lon": -69.7815,
+    "wiki": "https://en.wikipedia.org/wiki/Maine_State_Capitol"
+  },
+  "VT": {
+    "state": "Vermont",
+    "code": "VT",
+    "city": "Montpelier",
+    "address": "115 State Street",
+    "lat": 44.2622,
+    "lon": -72.5808,
+    "wiki": "https://en.wikipedia.org/wiki/Vermont_State_Capitol"
+  },
+  "NY": {
+    "state": "New_York",
+    "code": "NY",
+    "city": "Albany",
+    "address": "State St",
+    "lat": 42.6531,
+    "lon": -73.7584,
+    "wiki": "https://en.wikipedia.org/wiki/New_York_State_Capitol"
+  },
+  "NJ": {
+    "state": "New_Jersey",
+    "code": "NJ",
+    "city": "Trenton",
+    "address": "125 West State Street",
+    "lat": 40.2204,
+    "lon": -74.7699,
+    "wiki": "https://en.wikipedia.org/wiki/New_Jersey_State_Capitol"
+  },
+  "PA": {
+    "state": "Pennsylvania",
+    "code": "PA",
+    "city": "Harrisburg",
+    "address": "1723 Commonwealth Ave",
+    "lat": 40.2644,
+    "lon": -76.8836,
+    "wiki": "https://en.wikipedia.org/wiki/Pennsylvania_State_Capitol"
+  },
+  "WV": {
+    "state": "West_Virginia",
+    "code": "WV",
+    "city": "Charleston",
+    "address": "1900 Kanawha Boulevard East",
+    "lat": 38.3361,
+    "lon": -81.6119,
+    "wiki": "https://en.wikipedia.org/wiki/West_Virginia_State_Capitol"
+  },
+  "OH": {
+    "state": "Ohio",
+    "code": "OH",
+    "city": "Columbus",
+    "address": "1 Capitol Square",
+    "lat": 39.9614,
+    "lon": -82.9989,
+    "wiki": "https://en.wikipedia.org/wiki/Ohio_State_Capitol"
+  },
+  "KY": {
+    "state": "Kentucky",
+    "code": "KY",
+    "city": "Frankfort",
+    "address": "700 Capitol Avenue",
+    "lat": 38.1867,
+    "lon": -84.8753,
+    "wiki": "https://en.wikipedia.org/wiki/Kentucky_State_Capitol"
+  },
+  "TN": {
+    "state": "Tennessee",
+    "code": "TN",
+    "city": "Nashville",
+    "address": "600 Charlotte Avenue",
+    "lat": 36.1658,
+    "lon": -86.7842,
+    "wiki": "https://en.wikipedia.org/wiki/Tennessee_State_Capitol"
+  },
+  "IN": {
+    "state": "Indiana",
+    "code": "IN",
+    "city": "Indianapolis",
+    "address": "200 W. Washington St",
+    "lat": 39.7686,
+    "lon": -86.1628,
+    "wiki": "https://en.wikipedia.org/wiki/Indiana_State_Capitol"
+  },
+  "MI": {
+    "state": "Michigan",
+    "code": "MI",
+    "city": "Lansing",
+    "address": "100 N Capitol Ave",
+    "lat": 42.7336,
+    "lon": -84.5555,
+    "wiki": "https://en.wikipedia.org/wiki/Michigan_State_Capitol"
+  },
+  "IL": {
+    "state": "Illinois",
+    "code": "IL",
+    "city": "Springfield",
+    "address": "301 S 2nd St",
+    "lat": 39.7983,
+    "lon": -89.6547,
+    "wiki": "https://en.wikipedia.org/wiki/Illinois_State_Capitol"
+  },
+  "WI": {
+    "state": "Wisconsin",
+    "code": "WI",
+    "city": "Madison",
+    "address": "2 E Main St",
+    "lat": 43.0747,
+    "lon": -89.3842,
+    "wiki": "https://en.wikipedia.org/wiki/Wisconsin_State_Capitol"
+  },
+  "MN": {
+    "state": "Minnesota",
+    "code": "MN",
+    "city": "St Paul",
+    "address": "75 Rev. Martin Luther King Jr Boulevard",
+    "lat": 44.9553,
+    "lon": -93.1022,
+    "wiki": "https://en.wikipedia.org/wiki/Minnesota_State_Capitol"
+  },
+  "SD": {
+    "state": "South_Dakota",
+    "code": "SD",
+    "city": "Pierre",
+    "address": "500 E Capitol Ave",
+    "lat": 44.3669,
+    "lon": -100.3464,
+    "wiki": "https://en.wikipedia.org/wiki/South_Dakota_State_Capitol"
+  },
+  "ND": {
+    "state": "North_Dakota",
+    "code": "ND",
+    "city": "Bismarck",
+    "address": "600 E Boulevard Avenue",
+    "lat": 46.8207,
+    "lon": -100.7828,
+    "wiki": "https://en.wikipedia.org/wiki/North_Dakota_State_Capitol"
+  },
+  "MT": {
+    "state": "Montana",
+    "code": "MT",
+    "city": "Helena",
+    "address": "1301 E 6th Ave",
+    "lat": 46.5854,
+    "lon": -112.0184,
+    "wiki": "https://en.wikipedia.org/wiki/Montana_State_Capitol"
+  },
+  "WA": {
+    "state": "Washington",
+    "code": "WA",
+    "city": "Olympia",
+    "address": "416 Sid Snyder Ave SW",
+    "lat": 47.035833,
+    "lon": -122.904722,
+    "wiki": "https://en.wikipedia.org/wiki/Washington_State_Capitol"
+  },
+  "OR": {
+    "state": "Oregon",
+    "code": "OR",
+    "city": "Salem",
+    "address": "900 Court St NE",
+    "lat": 44.9385,
+    "lon": -123.0304,
+    "wiki": "https://en.wikipedia.org/wiki/Oregon_State_Capitol"
+  }
+}
